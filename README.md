@@ -21,4 +21,4 @@ Send data every 5 secs to MQTT broker.
 
 ## Scheme
 
-![scheme](https://github.com/Wifsimster/bmp180/blob/master/scheme.png)
+![scheme](https://github.com/Wifsimster/soil-moisture-mqtt/blob/master/sketch.png)
