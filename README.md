@@ -8,7 +8,7 @@ Read soil moisture sensor YL-69.
 
 Send data every 5 secs to MQTT broker.
 
-##Files
+## Files
 * ``config.lua``: Configuration variables
 * ``init.lua``: Connect to a wifi AP and then execute main.lua file
 * ``main.lua``: Main file
